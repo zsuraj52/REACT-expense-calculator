@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    letter-spacing: 5px;
+    animation: fades 5s 1.5s infinite linear;
+}
+
+/* @keyframes fades {
+    0%{
+        transform: scale(0.8);
+    }
+    25%{
+        transform: scale(0.9);
+    }
+    50%{
+        transform: scale(1.0);
+    }
+    75%{
+        transform: scale(0.9);
+    }
+    100%{
+        transform: scale(0.8);
+    }
+} */
+
+.new2 {
+    border-top: 10px solid rgb(0, 0, 0);
+}
